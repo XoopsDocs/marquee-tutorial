@@ -5,7 +5,7 @@
 #### for XOOPS 2.5.7
   
       
-![image006.gif](images/image006.png)
+![image006.gif](images/logoModule.png)
             
                 
                 
