@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Module Overview](chapter1.md)
-* Module Purpose
+* [Module Purpose](chapter1.md#Module Purpose)
 * Install/Uninstall
 * Administration Menu
 * Preferences
