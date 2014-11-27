@@ -1,6 +1,5 @@
 # 2.0 Administration Menu
 
-There are four options on top:
 
 ![image007.png](../assets/image007.png)
 
