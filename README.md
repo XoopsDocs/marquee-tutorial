@@ -19,16 +19,15 @@
 © 2014 The XOOPS Project (www.xoops.org)    
   
   
-### Table of Contents
+# Table of Content
 
-
-- MODULE PURPOSE
-- INSTALL/UNISTALL
-- ADMINISTRATION MENU
-- PREFERENCES
-- OPERATING INSTRUCTIONS
-- THE USER SIDE
-- BLOCKS
-- TEMPLATES
-- MODULE CREDITS
+* [Introduction](README.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Module Credits](book/9credits.md)
 
