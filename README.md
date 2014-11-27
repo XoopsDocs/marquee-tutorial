@@ -1,11 +1,11 @@
 ### _XOOPS Documentation Series_
-![logo_xoops_small.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # XOOPS Marquee 2.50
 #### for XOOPS 2.5.7
   
       
-![image006.gif](assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
                 
                 
