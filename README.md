@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logo_xoops_small.jpg](images/image004.jpg)
+![logo_xoops_small.jpg](images/logoXOOPS.jpg)
 
 # XOOPS Marquee 2.50
 #### for XOOPS 2.5.7
