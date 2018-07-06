@@ -8,7 +8,7 @@
          
 ## User Manual
   
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
   
 ## Module Purpose 
 Marquee is a XOOPS module to create scrolling texts (marquees). You can create an unlimited number of marquees and use them in 4 blocks. Texts can scroll horizontally (from right to left or left to right) and vertically (from top to bottom and bottom to top)
@@ -17,7 +17,7 @@ You can also set the loop, i.e. how many times should the marquee loop (from 1 t
 ![image007.png](en/assets/image007.png)
 _Figure 1 Main view of the Marquee Module (Admin side)_
   
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/marquee))** 
 
@@ -44,4 +44,4 @@ Editing the book can be done either by updating the markdown files with a text e
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
